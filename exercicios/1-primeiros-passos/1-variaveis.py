@@ -4,11 +4,7 @@
 # - E não podemos usar palavras reservadas do Python, como if, for, from, etc. 
 
 # Declare variáveis do tipo string
-nome = 'Leonardo'
-profissão = "Bancário"
-Sinopse = '''testet teste teste teste 
- teste  teste  teste  teste 
-  teste  teste  teste  teste '''
+nome_string = 'Leo'
 
 # Declare variáveis de cada tipo numérico
 idade = 26
